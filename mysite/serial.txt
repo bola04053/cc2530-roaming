@@ -1,0 +1,1362 @@
+Send to 0 sensor data (37)
+</br></br></br>Send to 0 sensor data (38)
+</br></br></br>Send to 0 sensor data (39)
+</br></br></br>Send to 0 sensor data (40)
+</br></br></br>Send to 0 sensor data (41)
+</br></br></br>Send to 0 sensor data (42)
+</br></br></br>Send to 0 sensor data (43)
+</br></br></br>Send to 0 sensor data (44)
+</br></br></br>Send to 0 sensor data (45)
+</br>==Received an RPL control message
+==RPL: Received a DIO from fe80::0212:4b00:0205:f358
+RPL: NeigRPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0210)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, length: 14
+RPL:, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPLefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank etx 0, link metric 16, instance etx 128
+</br></br></br>Send to 0 sensor data (46)
+RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0
+</br></br>Send to 0 sensor data (47)
+</br></br></br>Send to 0 sensor data (48)
+</br></br></br>Send to 0 sensor data (49)
+</br></br></br>Send to 0 sensor data (50)
+</br></br></br>Send to 0 sensor data (51)
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe805:f4ec
+RPL: Neighbor already in neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,512)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, ngth 2, ETX 128
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+ 8, length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG a:f358, rank 512, min_rank 512, parent rank 512, parent etx 128, link metric 80, instance etx 128
+Send to 0 sensor data (52)
+RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multich rank 512
+</br></br></br>Send to 0 sensor data (53)
+</br></br></br>Send to 0 sensor data (54)
+</br></br></br>Send to 0 sensor data (55)
+</br></br></br>Send to 0 sensor data (56)
+</br></br></br>Send to 0 sensor data (57)
+</br></br></br>Send to 0 sensor data (58)
+</br></br></br>Send to 0 sensor data (59)
+</br></br></br>Send to 0 sensor data (60)
+</br></br></br>Send to 0 sensor data (61)
+</br></br></br>Send to 0 sensor data (62)
+</br></br></br>Send to 0 sensor data (63)
+</br></br></br>Send to 0 sensor data (64)
+</br></br></br>Send to 0 sensor data (65)
+</br></br></br>Send to 0 sensor data (66)
+</br></br></br>Send to 0 sensor data (67)
+</br></br></br>Send to 0 sensor data (68)
+</br></br></br>Send to 0 sensor data (69)
+</br></br></br>Send to 0 sensor data (70)
+</br></br></br>Send to 0 sensor data (71)
+</br></br></br>Send to 0 sensor data (72)
+</br></br></br>Send to 0 sensor data (73)
+</br></br></br>Send to 0 sensor data (74)
+</br></br></br>Send to 0 sensor data (75)
+</br></br></br>Send to 0 sensor data (76)
+</br></br></br>Send to 0 sensor data (77)
+</br></br></br>Send to 0 sensor data (78)
+</br></br></br>Send to 0 sensor data (79)
+</br></br></br>Send to 0 sensor data (80)
+</br></br></br>Send to 0 sensor data (81)
+</br></br></br>Send to 0 sensor data (82)
+</br></br></br>Send to 0 sensor data (83)
+</br></br></br>Send to 0 sensor data (84)
+</br></br></br>Send to 0 sensor data (85)
+</br></br></br>Send to 0 sensor data (86)
+</br></br></br>Send to 0 sensor data (87)
+</br></br></br>Send to 0 sensor data (88)
+</br></br></br>Send to 0 sensor data (89)
+</br></br></br>Send to 0 sensor data (90)
+</br></br></br>Send to 0 sensor data (91)
+</br></br></br>Send to 0 sensor data (92)
+</br></br></br>Send to 0 sensor data (93)
+</br></br></br>Send to 0 sensor data (94)
+</br></br></br>Send to 0 sensor data (95)
+</br></br></br>Send to 0 sensor data (96)
+</br></br></br>Send to 0 sensor data (97)
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe80::0212:4b00:0205:f358
+RPL: Neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0length 2, ETX 0
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+ 8, length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 25tx 0, link metric 16, instance etx 128
+Send to 0 sensor data (98)
+</br>RPL: Sending DAO with prefix aaaa2 to fe80::0212:4b00:0205:f358
+==Received an RPL control message
+==RPL: Received a DIO from fe80che
+RPL: Incoming DIO (id, ver, rank) = (30,240,512)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIength: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, leng=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:n_rank 512, parent rank 512, parent etx 128, link metric 80, instance etx 128
+Send to 0 sensor data (99)
+</br></br></br>Send to 0 sensor data (100)
+</br></br></br>Send to 0 sensor data (101)
+</br></br></br>Send to 0 sensor data (102)
+</br></br></br>Send to 0 sensor data (103)
+</br></br></br>Send to 0 sensor data (104)
+</br></br></br>Send to 0 sensor data (105)
+</br></br></br>Send to 0 sensor data (106)
+</br></br></br>Send to 0 sensor data (107)
+</br></br></br>Send to 0 sensor data (108)
+</br></br></br>Send to 0 sensor data (109)
+</br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic512
+Send to 0 sensor data (110)
+</br></br></br>Send to 0 sensor data (111)
+</br></br></br>Send to 0 sensor data (112)
+</br></br></br>Send to 0 sensor data (113)
+</br></br></br>Send to 0 sensor data (114)
+</br></br></br>Send to 0 sensor data (115)
+</br></br></br>Send to 0 sensor data (116)
+</br></br></br>Send to 0 sensor data (117)
+</br></br></br>Send to 0 sensor data (118)
+</br></br></br>Send to 0 sensor data (119)
+</br></br></br>Send to 0 sensor data (120)
+</br></br></br>Send to 0 sensor data (121)
+</br></br></br>Send to 0 sensor data (122)
+</br></br></br>Send to 0 sensor data (123)
+</br></br></br>Send to 0 sensor data (124)
+</br></br></br>Send to 0 sensor data (125)
+</br></br></br>Send to 0 sensor data (126)
+</br></br></br>Send to 0 sensor data (127)
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe8:f358
+RPL: Neighbor already in n pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535ption 8, length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, r_rank 512, parent rank 256, parent etx 0, link metric 16, instance etx 128
+Send to 0 sensor data (128)
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe805:f4ec
+RPL: Neighbor already inoming DIO (id, ver, rank) = (30,240,512)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, length: 14
+RPL:8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPprefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, parent etx 128, link metre etx 128
+RPL: Sending DAO with prefix aaaa2 to fe80::0212:4b00:0205:f358
+Send to 0 sensor data (129)
+</br></br></br>Send to 0 sensor data (130)
+</br></br></br>Send to 0 sensor data (131)
+</br></br></br>==Received an RPL control messageReceived a DIO from fe80::0212:4hbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+tion 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying pretion
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 256, parent tric 16, instance etx 128
+Send to 0 sensor data (132)
+</br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicrank 512
+Send to 0 sensor data (133)
+</br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f358
+</br>Send to 0 sensor data (134)
+</br></br></br>Send to 0 sensor data (135)
+==Received an RPL control message
+==RPL: Received a DIO from fe80::0212:4b00:0205:f4ec
+RPL: Neigng DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO o length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, parent etx 128, link metric 80, instance etx 128
+</br></br>Send to 0 sensor data (136)
+</br></br></br>Send to 0 sensor data (137)
+</br></br></br>Send to 0 sensor data (138)
+</br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicast-DIO with rank 512
+==Received an RPL control message
+==RPL: Received a DIO from fe80::0212:4b00:0205:f358
+RPL: Neighbor already in neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming Dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length  option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, lengt 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_ranent rank 256, parent etx 0, link metric 16, instance etx 128
+Send to 0 sensor data (139)
+</br></br></br>Send to 0 sensor data (140)
+RPL: Sending DAO with prefix aaaa:01ce:4b82 to fe80::0212:4b00:02</br></br>Send to 0 sensor data (141)
+</br></br></br>Send to 0 sensor data (142)
+==Received an RPL control message
+==RPL: Received a DIO from fe80::0212:4b00:0205:f4ec
+RPL: Neig_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=inc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix inRPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, parent etx 1ric 80, instance etx 128
+</br></br></br>Send to 0 sensor data (143)
+</br></br></br>Send to 0 sensor data (144)
+</br></br></br>Send to 0 sensor data (145)
+</br>==Received an RPL control message
+==RPL: Received a DIO from fe80:0205:f4ec
+RPL: Neighbor alreadg DIO (id, ver, rank) = (30,240,512)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, lengAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxin2 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_ranknk 512, parent etx 128, link metric 80, instance etx 128
+</br>Send to 0 sensor data (146)
+==Received an RPL control messageeived a DIO from fe80::0212:4b00y in neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, length: 14
+RPL: DAG co12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+RPL: ReceO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 256, parent etx 0, link metric 16, instance etx 128
+RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicast-DIO with rank 512
+</br></br>Send to 0 sensor data (147)
+RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::4b00:0205:f358
+</br></br>Send to 0 sensor data (148)
+</br></br></br>Send to 0 sensor data (149)
+</br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic512
+Send to 0 sensor data (150)
+</br></br></br>Send to 0 sensor data (151)
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe80::0212:4b00:0205:f358
+RPL: Neigb00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, L: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+RPL: Received cons: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 256, parent etx 0, link metric 16, instance etx 128
+Send to 0 sensor data (152)
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe80::0212:4b00:0205:f4ec
+RPL: Neigh in neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,512)
+==RPL: Incoming DIO (dag_id,pref) = (aaaa::0212:4b00:0205:f3, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, length: 14
+8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+RPnsistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, parent etx 128, link metric  etx 128
+</br>Send to 0 sensor data (153)
+RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::5:f358
+</br></br>Send to 0 sensor data (154)
+</br></br></br>Send to 0 sensor data (155)
+</br></br></br>Send to 0 sensor data (156)
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe8f358
+RPL: Neighbor already in ne 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, l14
+RPL: DAG conf:dbl=8, min=12 r10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying preon
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 256, parent etx 0, link metric 16, instance etSend to 0 sensor data (157)
+</br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f358
+</br>Send to 0 sensor data (158)
+RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicast-DIO with rank 512
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe80ing DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO oplength: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: nformation
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, parent etx 128, link metric 80, instance etx 128
+Send to 0 sensor data (159)
+</br></br></br>Send to 0 sensor data (160)
+</br></br></br>Send to 0 sensor data (161)
+</br></br></br>Send to 0 sensor data (162)
+</br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic rank 512
+</br>Send to 0 sensor data (163)
+</br></br></br>Send to 0 sensor data (164)
+==Received an RPL control message
+==RPL: Received a DIO from fe80Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIOth: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copytion
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 256, parent link metric 16, instance etx 128
+</br></br>Send to 0 sensor data (165)
+</br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::58
+==Received an RPL control message
+==RPL: Received a DIO from fe8ec
+RPL: Neighbor already in neig212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, length: 14
+RPL: DAG conf:=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying pron
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, parent etic 80, instance etx 128
+Send to 0 sensor data (166)
+</br></br></br>Send to 0 sensor data (167)
+</br></br></br>Send to 0 sensor data (168)
+</br></br></br>Send to 0 sensor data (169)
+</br></br></br>Send to 0 sensor data (170)
+</br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicnk 512
+</br>Send to 0 sensor data (171)
+</br>==Received an RPL control message
+==RPL: Received a DIO from fe8:f358
+RPL: Neighbor already in n Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0,ength 2, ETX 0
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+Rlength: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512,  parent rank 256, parent etx 0, link metric 16, instance etx 128
+</br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f358
+Send to 0 sensor data (172)
+</br></br>==Received an RPL control messageved a DIO from fe80::0212:4b00:0aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, length: 14
+RPL: DA=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+Rconsistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, parent etx 128, link metrince etx 128
+Send to 0 sensor data (173)
+</br></br></br>Send to 0 sensor data (174)
+</br></br></br>Send to 0 sensor data (175)
+</br></br></br>Send to 0 sensor data (176)
+==Received an RPL control message
+==RPL: Received a DIO from fe8358
+RPL: Neighbor already in neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, pref) :4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:020, min_rank 512, parent rank 256, parent etx 0, link metric 16, instance etx 128
+</br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f358
+</br>Send to 0 sensor data (177)
+RPL: Sending prefix info in DIO fL: Sending a multicast-DIO with </br></br>Send to 0 sensor data (178)
+</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe805:f4ec
+RPL: Neighbor already in:0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO oength: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Crmation
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, pare 128, link metric 80, instance etx 128
+</br>Send to 0 sensor data (179)
+</br></br></br>Send to 0 sensor data (180)
+</br></br></br>Send to 0 sensor data (181)
+</br></br></br>Send to 0 sensor data (182)
+</br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic rank 512
+==Received an RPL control messageeived a DIO from fe80::0212:4b000205:f358
+RPL: Neighbor already in neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, a::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1756 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: preferred DAG aaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 256, parent etx 0, link  instance etx 128
+Send to 0 sensor data (183)
+</br></br></br>Send to 0 sensor data (184)
+==Received an RPL control messaged a DIO from fe80::0212:4b00:020ready in neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,512)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 128
+RPL: DIO option 4, length: 14
+RPL: , min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix information
+RPL: Received consistent DIO
+RPL: paaaa::0212:4b00:0205:f358, rank 512, min_rank 512, parent rank 512, parent etx 128, link metric 80, instance etx 128
+RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f358
+</br></br>Send to 0 sensor data (185)
+</br></br></br>Send to 0 sensor data (186)
+</br></br></br>Send to 0 sensor data (187)
+</br></br></br>Send to 0 sensor data (188)
+</br></br></br>Send to 0 sensor data (189)
+RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicth rank 512
+</br></br>Contiki-2.6-561-g872366b
+TI Smart530-F256, 08KB SRAM
+==RPL started
+UDP client process started
+Client IPv6 addresses: aaaa::0212:4b00ort 8765/5678
+==Received an RPL control message
+==RPL: Received a DIO from fe8f358
+RPL: Neighbor added to neig Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, lDAG conf:dbl=8, min=12 red=10 mamininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO option 8, length: 30
+RPL: Copying prefix informationw instance detected: Joining...
+==RPL: Adding fe80::0212:4b00:0205:f358 as a parent: succeeded
+RPL: Joined DAG with instance ID 30, rank 1536, DAG ID aaaa::0212
+--RPL: Adding default route through fe80::0212:4b00:0205:f358
+</br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicrank 1536
+Send to 0 sensor data (1)
+RPL: Neighbor fe80::0212:4b00:02nown. ETX = 1
+RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::05:f358
+RPL: Preferred parent update, rank changed from 1536 to 512
+RPL:stance from rank 6 to 2
+RPL: The</br></br>Send to 0 sensor data (2)
+</br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicnk 512
+Send to 0 sensor data (3)
+</br></br></br>Send to 0 sensor data (4)
+</br></br></br>Send to 0 sensor data (5)
+</br>=0,256)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:020gs 8, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 pti 51x 128
+</br>Send to 0 sensor</br>R</br>Send</br></br></br></br></br></br>Send t</br></br></br>Sen</br></br></br>Sen</br></br></br>RPRPL</br>SeRPLRL=ec
+RPL: Neighbor added to neid=10 maxinc=1792 mininc=256 ocp=n
+RPL: Adding new DAG to known ieded
+RPL: Joined DAG with instan</br>Contiki-2.6-561-g872366b
+TI SmartUDo=</br></br>==
+RPL: Neighbor added to neighbor: DDIOiniRP4cSRRPL: Sending prefix info in DI</br>RPL: SeSend to 0 sensor data (2)
+</br></br>205:f4ec
+RPL: Neighbor already i) amifa5</br></br></br>S</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>==RPL started
+1==R</br></br>S==Received an RPL control messagcoming DIO (id, ver, rank) = (30
+RPL: DIO option 2, length: 6
+RP inc=1792 mininion
+==Red
+RPhSRPL: Preferred parent update, rank changed from 1536 to 512
+RPL: Moving in the instance from ran</br>0212:4b00:0205:f4ec
+RP==Received an RPL control messagIncoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f4ec, 0)
+RPL:hn=1lenmtSend to 0 sensor data (3)
+</br></br>nk 512
+Send to 0 sensor data (4)
+</br></br></br>S</br></br></br>S</br></br></br> S</br>0th: X d  </br>Send RPL: Sending DAO with prefix aaaa01ce:4b82 to fe80::0212:4b00:020</br></br>Send </br></br></br>Send to 0 sensor data (10)
+</br></br></br>Sen</br></br></br>Send to 0 sensor data (12)
+</br></br></br>Send to 0 sensor data (13)
+</br>0::0212:4b00:0205:f4ec
+RPL: Neig0)gRPL: D p</br>Send to 0 sensor data (14)
+</br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multica</br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::e</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (18)
+</br></br></br>S</br></br></br>S</br></br></br>S</br></br></br>Send to 0 sensor data (22)
+</br></br></br>Se</br></br></br>S</br></br></br>Se</br></br></br>Send</br></br></br>Send</br></br></br></br></br></br>S</br></br></br>Send</br></br>RPL: Sending prefix info in DIO ==Receg ,tX 0
+RPL: DIO option 4, length: 1=6ti4b0etxSend to 0 sensor data (31)
+</br></br>R
+</br></br></br></br></br></br>Send to 0 sensor data (34)
+</br></br></br>Send to 0 sensor data (35)
+</br></br></br>Send to 0 sensor data (36)
+</br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (41)
+</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (44)
+</br></br></br></br></br></br>Send to 0 sensor data (46)
+</br></br></br>S</br></br></br></br></br></br>S</br></br></br>Send</br></br></br>Send to 0 sensor data (51)
+</br></br></br></br></br></br>Send to 0 sensor data (53)
+</br></br></br></br></br></br>Send to 0 sensor data (55)
+</br>Rs</br>Send to 0==Dle d_lef , </br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::</br></br></br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br></br></br></br></br>S</br></br></br></br></br></br></br></br></br>S</br></br></br></br></br></br>Sen</br></br></br>Send</br></br></br>S</br></br></br></br></br></br></br></br></br></br></br></br>Sen</br></br></br>Send </br></br></br>Send to 0 sensor dat</br></br></br>Sen</br></br></br></br></br></br></br></br></br>Sen</br></br></br></br></br></br>Sen</br></br></br>Send to </br></br></br></br></br></br></br></br></br>Sen</br></br></br>Sen</br></br></br></br></br></br>S</br></br></br></br></br></br>RPe
+==RPL: Receive  miL:  toCo==U
+fe80::0212:4b00:01ce:4b82
+Creat</br></br>Send to 0 sensor data (1)
+</br></br></br></br>e
+p2, ETX 0
+RPL: DIO option 4, lengon
+0iSendRPL: RPL</br></br></br></br></br>Sen</br>ast-DIO with rank 512
+(i) ype4, in021Send to 0 sensor data (7)
+</br></br></br>Send to 0 sensor data (8)
+</br></br></br>Send t</br>RPL</br></br></br> f205:</br>0::0212:4b00:02 8, aggr 0, prec 0, length 2, ETniix inCo=UDP c</br></br></br></br>==0::0212:4b00:0205:f4ec
+RPL: Neig,02mPL5f4e</br>aRPL: Preferred parent update, ran00:0205:f4ec (rank 1)
+RPLec
+</br>Send to 0 sensor data (4)
+</br></br></br></br>R</br>Se0::0212:4b00:0205:f4ec
+RPL: Neig =
+R 0AG 5 f02 m</br></br></br>RPL: </br></br></br></br></br></br>Se</br></br></br>Send</br></br></br>SRPed parent is fe80::0212:4b00:020</br></br>==Received an RPL control message
+==RPL: Receig_id, pref) = (aaaa::0212:4b00:020G cngth: Contiki-2.6-561-g872366b
+TI Smart0:01ce:4b82
+fe80::0212:4</br></br></br></br>:0205:f358
+RPL: Neighbor added t=1e dSenRPe instance from rank 6 to 2
+RPL:</br> 512
+RPL: Sending DAO with prefix aaaSe</br></br></br></br></br>0::0212:4b00:0205:f358
+RPL: Neigbag65b0tx 0fSe</br></br></br>SRP</br></br>RPL: Sending prefix info in DIO Send</br></br></br></br></br></br></br></br></br></br></br></br>==r, rank) = (30,240,256)
+==RPL: In Dn55on016Se</br>RRPM1</br>RPL: Neighbor fe80::0212:4b00:0205:f358 is known. ETX = 3
+=bngth:  or80:itU</br></br></br>Send to 0 sensor data (1)
+</br></br>=c, 00:12:4b:00:02:05:f4:ec
+RPL: Incoming DIO (id, ver, rank) = (ANe020D 3dnk 1)
+</br>5RPS</br></br></br></br></br>25ecfSe</br></br></br>Send0212:4b00:0205:f4ec
+</br></br></br></br>R</br>Send to 0 sensor data (9)
+R</br></br></br></br>Moving in the instanc</br>5in 0,bl3
+R00:02Con=UDP ccal/remote port 8765/5678
+</br></br></br>Sen</br>==Received an RPL control messag
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f358 0, length 2, ETX 0
+RPL: DIO optifiAdding ::0212:4b00:0205:f358
+--RPL: Add</br>Send to 0 sensor data (3)
+R Moving in the instance from rane80::0212:4b00:0205:f358 (rank 1</br>RPL: Sendi</br>Send to 0 sensor data (4)
+</br></br></br>SenRPL:ast-DIO with rank 512
+==Received an RPL control messageved npninfiaa56</br></br></br></br>0212:4b00:0205:f358
+Send to 0 sensor data (7)
+</br></br></br>SenR</br></br>S</br></br></br></br></br></br></br></br></br></br>nk changed from 512 to 864
+RPL: Moving in the instance from rank 2 to 3
+RPL: The preferred paren==h
+==RPL: Incoming DIO (dag_id, prRPL: DAG MC: type 7, flags 8, ag8, mRPL: DIO option 8, length: 30
+RPg fe86, DAG ID aaaa::0212:4b00:0205:fCU8
+</br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neig4ec, 00:12:4b:00:02:05:f4:ec
+RPL ti2 minnf4eDAough SeRtance from rank 6 to 2
+RPL: The </br>st-DIO with rank 512
+RPSend to 0 sensor data (3)
+</br></br></br>Se</br>RPL: Sending prefix info in DIO f</br></br>RRPL: Preferred parent update, ran2 to 3
+RPL: The preferred parent==Received an RPL control messag0205:f358, 00:12:4b:00:02:05:f3:58
+RPL: Incoming DIO (id, ver, r0212:4b00:0205:f358, 0)
+RPL: DIOred=wn RPC=UDfe80::0212:4b==RPL: Sending a DIS to ff02::001a
+</br></br>0::0212:4b00:0205:f358
+RPL: Neig = (30,240,256)
+==RPL: Incoming i 0
+R=1onstSeRPL:the instance from rank 6 to 2
+RP</br></br>Send to 0 sensor data (2)
+RPL: Sending DAO with prefix aaa==Received an RPL control messag, ver, rank) = (30,240,256)
+==RPRPh 2,nDIen</br></br></br></br>ast-DIO with rank 512
+</br>RPL: Preferred parent update, rank changed from 512 to 864
+RPL: ==Received an RPL control message
+==RPL: Received a DIO from fe8 DIO (dag conf:dbl=8, min=12 red=10 maxinin50Contiki-2.6-561-g872366b
+TI SmartUDP0:01ce:4b82
+fe80::0212:4b00:01ce</br></br></br></br></br></br>Send to 0 sensor data (3)
+:4b00:0205:f4ec, 00:12:4b:00:02: IL , PLPL: a 538</br>RPL: Preferred parent update, ra05:f4ec (rank 1)
+</br>ast-DIO with rank 512
+</br>RPL: S</br></br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic::0212:4b00:0205:f4ec
+RPL: Neigh0g,onsp</br>Send to 0 sensor data (7)
+RPL: Neighbor fe80::0212:4b00:0205:f4ec is known. ETX = 1
+</br></br>c
+RPL: NeiRPLS</br></br></br>Send to 0 sensor data (9)
+th rank 512
+</br></br>Se</br></br></br></br>RRPL: Preferred parent update, rank changed from 512 to 864
+RP</br></br>b00:0205:f358
+RPL: Neighbor adde:f
+RPniPanoin:0Con==RPL started
+UDP client process started
+Clien=</br>o neighbor cache fe80::0212:,RPd_l=25.
+==RPL: Adding fe80::0212:4b00:DdeSendRPance from rank 6 to 2
+RPL: The pRPast-DIO with rank 512
+</br></br>RPL: Sending DAO with prefix aaa</br>0::0212:4b00:0205:f358
+RPL: Neign</br></br></br> rank 512
+RPL: Sending DAO with prefix aaaSend </br></br></br></br></br></br>RPS</br></br>==0bln n512 12</br></br></br></br>SeRP</br></br></br></br></br></br>Send to 0</br></br></br></br></br></br></br></br>-DIO with rank 512
+==Received an RPhb : DI1=prefix  e</br></br></br>Se</br></br></br></br></br></br>Send to 0 sensor data (16)
+</br></br></br></br></br></br>Se</br></br></br></br></br></br>S</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>Send to 0 sensor data (25)
+</br></br></br></br></br></br> with rank 512
+Send to 0 sensor data (27)
+</br></br></br></br></br></br></br></br></br>Sen</br>0::0212:4b00:0205:f358
+RPL: Neig30,240,256)
+==RPL: Incoming DIO (2DIncngt n</br>R</br></br></br></br></br></br>S</br></br></br></br></br></br>S</br></br></br>Send to 0 sensor data (36)
+</br></br></br>Sen</br></br></br></br></br></br>Send to 0 sensor data (39)
+</br></br></br>Sen</br></br></br></br></br></br>S</br></br></br></br></br></br>S</br></br></br></br></br></br>Sen</br></br></br></br></br></br>Send t</br></br></br></br></br></br>Send to 0 sensor data (50)
+</br></br></br></br></br></br>Send </br></br></br>Send to 0 sensor data (53)
+</br>ast-DIO with rank 512
+</br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neig0ags 8 Cope80::Contiki-Ut==RPL: Sending a DIS to ff02::001a
+</br></br>Send to 0 sensor data (1)
+==Received an RPL control message
+==RPL: Received a DIO from fe80:0= 4b00:0205:f4ec, 0)
+RPL: DIO optiX d=10 mree80::0DAG ID aaaa::0212:4b00:0205:f4ecSeRPL: Preferred parent update, rank changed from 1536 to 512
+RPL: Moving in the instance from ranRPL: Sending prefix info in DIO fRPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::</br></br></br></br></br>RP</br></br></br></br></br></br>Send</br>(id, ver, rank) = (30,240,256)
+== 0,bl=35
+
+RP:02ic 1</br></br></br>RPL: Sending DAO with prefix aaa</br></br></br></br></br></br></br></br></br></br>Send </br></br></br>S</br></br></br></br></br></br>Send t</br></br>0::0212:4b00:0205:f4ec
+RPL: Neig 0=8, min=12 red=10 maxinc=1792 miefix information
+RPL: Received c 51RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multica</br>RPL: Sending DAO with prefix aaa</br></br>S</br></br></br></br></br></br></br></br></br></br></br></br></br>Sen</br></br></br></br></br></br>Sen</br></br></br>Se</br></br></br>Send to 0 sensor data (24)
+</br></br></br>Send</br></br></br></br></br></br></br></br></br></br>Send</br></br></br>Se</br></br></br></br>)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, agg5n
+RP0:020</br></br>Sen</br></br></br>S</br></br>ast-DIO with rank 512
+Send</br></br></br></br></br></br>Sen</br></br></br>Send</br></br></br>Sen</br></br></br>Send</br></br></br>Send</br></br></br>Send</br></br></br>Se</br></br></br>S</br></br></br></br></br></br>S</br></br></br>Sen</br></br></br></br></br></br></br></br></br>Send</br></br></br>S</br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br></br></br></br></br>Send</br>ast-DIO with rank 512
+</br></br>Send to 0 sensor data (56)
+==Received an RPL control messageaa</br></br></br>SRPL: Sending DAO with prefix aaaace:4b82 to fe80::0212:4b00:0205:</br></br></br></br></br></br></br></br>Se</br></br></br>Sen</br></br></br></br></br></br>S</br></br></br></br></br></br>Sen</br></br></br></br></br></br>Se</br></br></br></br></br></br>Send</br></br></br></br></br></br>Send</br></br></br></br></br></br>S</br></br></br>Se</br></br></br>Se</br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br></br>S</br></br></br>Send</br></br></br>Sen</br></br></br>Se</br></br></br>Send to 0 sensor data (84)
+</br></br></br>Send t</br></br></br></br></br></br>S</br></br></br>S</br></br></br>S</br></br></br>S</br></br></br>Send</br></br></br></br></br></br>Sen</br></br></br></br></br></br>Send</br></br></br>S</br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>Send</br></br></br>Se</br></br></br>S</br></br></br></br></br></br>S</br></br></br></br></br></br>Send t</br></br></br></br>Rast-DIO with rank 512
+</br>Send to 0 sensor</br></br></br></br></br></br>Se</br></br></br></br></br></br>Send to 0 sensor data (117)
+</br></br></br></br></br></br>Send to 0 sensor data (119)
+</br></br></br>S</br></br>f4ec, 0)
+RPL: DIO option 2, lengd=10 maxinc=1792 mininc=256 ocp=65535
+RPL: DIO option 8, lengt Send</br>RPL:</br></br></br></br>Sen</br></br></br></br></br></br></br></br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neign 2, length: 6: DAG conf:dbl=8, min=12 red=10 efeareS</br></br>RPL: Sending DAO with prefix aaaa</br>Send to 0 sensor data (132)
+</br></br></br></br></br></br>Sen</br>==Received an RPL control messag option 2, lengon 4, length: 14
+RPL: DAG conf:dirank 5</br>SRPL: Se</br></br></br></br></br></br></br></br>Se</br></br></br></br></br></br>Sen</br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>Contiki-2.6-561-g872366b
+TI SmartRFU =</br>==PDIO (dag_id, prefRPdtion
+==RPL: New instance detecteRPL24b0Co=UDPs</br></br></br>==Received an RPL control message
+==RPL: Received a DIO from fe800205:f4ec
+RPL: Neighbor added to30,240,256)
+==RPL: Incoming DIO (AG MC: type 7, flags 8, aggr 0, ining feSRPL: the instance from rank 6 to 2
+RRPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicast-DIO with rank 512
+</br>5:S</br></br></br></br></br>S</br></br></br>lengthe etx</br>RPL021</br>S</br></br></br>Send t</br>512
+</br></br></br></br></br>S</br></br></br>==Received an RPL control message256)
+==RPL: Incoming DIO (dag_id, pref) = (aaabl3ac</br></br></br>RPL</br></br></br></br></br></br></br></br>Send to 0 sensor data (15)
+</br></br></br></br></br></br>k 512
+Se</br></br></br>Send to 0 sensor data (18)
+</br></br></br></br></br></br></br></br></br>Send </br></br></br></br></br></br>S</br></br></br></br></br></br>Send to 0 sensor data (25)
+</br></br></br>Sen</br></br></br>Send t</br></br></br></br>eigh=RPL: Incoming DIO (dag_id, prefniP6</br></br></br>f4ec
+</br></br></br></br> 512
+</br></br></br></br></br></br></br>Se</br></br></br>Send to 0 sensor data (34)
+</br></br></br></br></br></br>Send to 0 sensor data (36)
+</br></br></br>S</br></br></br>S</br></br></br>Send to 0 sensor data (39)
+</br></br></br></br></br></br></br></br></br>S</br></br></br>Se</br></br></br></br></br></br></br></br></br></br></br></br>Send to 0 sensor data (47)
+</br></br></br></br></br></br></br>212:4b00:0205:f4ec
+RPL: Neighbore
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incomi41 d_l=ra</br></br></br></br></br></br></br></br></br></br></br>Send to 0 sensor data (53)
+</br></br></br></br></br></br>Sen</br></br></br></br></br></br>Se</br></br></br></br></br></br>Send to 0 sensor data (59)
+</br></br></br></br></br></br>Send to 0 sensor data (61)
+</br></br></br>S</br></br></br></br></br></br>Send to 0 sensor data (64)
+</br></br></br>S</br></br></br></br></br></br>Se</br></br></br>Send to 0 sensor data (68)
+</br></br></br>Send to 0 sensor data (69)
+</br></br></br>Send</br></br></br></br></br></br></br></br></br>S</br></br></br></br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br></br>S</br></br></br></br></br></br>Se</br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br></br>S</br></br></br></br></br></br>Send to 0 sensor data (88)
+</br></br></br>S</br></br></br></br></br></br>Se</br></br></br></br></br></br>Send to 0 sensor data (93)
+</br></br></br>Send to 0 sensor</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>Se</br></br></br>S</br></br></br></br></br></br>Sen</br></br></br></br></br></br></br></br>::021248nf=655ti256</br>Send to 0 sensor data (110)
+</br></br>:f4ec
+</br></br></br></br></br></br></br></br></br>S</br></br></br>Send</br></br></br>S</br></br></br></br></br></br></br></br></br>Se</br></br></br></br></br></br></br></br></br>S</br></br></br></br></br></br></br></br></br>S</br></br></br>Sen</br></br></br></br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br>Send to 0 sensor data (130)
+</br></br></br></br></br>==Received an RPL control messaghbg_length: 6
+RPL: DAG MC: type 7, fh:n:4b00:0205:f4ec, rank 512, min_r Se</br></br>Send t</br></br></br>Rast-DIO with rank 512
+S</br></br></br></br></br></br>S</br>==R already in nei2,h 2, i::02par</br></br></br></br>:f4ec
+S</br></br></br>Send </br></br></br>512
+Send to 0 sensor data (140)
+</br></br></br>Send to 0 sensor data (141)
+</br></br></br></br></br></br>e
+RPL: Incoming DIO ( tyninRP:56,Send to 0 sensor data (143)
+</br></br></br>0212:4b00:0205:f4ec
+</br></br></br></br></br></br></br></br>k 512
+</br></br></br></br>S</br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: NeiggTX eti,8
+</br></br></br>RPL</br></br></br></br></br></br></br></br>R</br></br></br></br></br></br></br></br>=aae  mLsist1x Sen</br></br></br>Seast-DIO with rank 512
+RPL: Sending DAO with prefix aaaa</br></br>Send to 0 sensor data (158)
+</br></br></br>S</br></br></br>S</br></br></br>==Received an RPL control message:h 2,n=IOan etx </br></br></br></br></br>Send</br></br></br></br></br></br></br>ank 512
+</br></br></br></br></br>S</br>0AG ic 1</br>Send to 0 sensor data (168)
+</br>05:f4ec
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br>==Received an RPL control messaggth 2, ETX 0
+RPL: DIO option 4, =256 ocp=1 d_l=255 l_u=65535
+RPLRek 516</br></br></br></br></br></br></br>th rank 512
+</br></br></br></br>S</br></br></br>
+==RPL: Received a DIO from fe80O (id, ver, rank) = (30,240,256)miO optioion 4, 53n
+0c 1</br></br></br></br></br>Send to 0 sensor data (180)
+</br></br></br>S</br></br></br>RPLast-DIO with rank 512
+Se</br></br></br></br></br></br>Send to 0 sensor data (184)
+</br></br></br>Send to 0 sensor data (185)
+4ec
+RPL: Neighbor already in neir 0, prec 0, length 2, ETX 0
+RPLiRPL: Copying prefix information
+k16,</br></br>Se</br></br></br></br></br>r</br></br></br></br>Sen</br></br></br>S==R:0212:4b00:0205:f4ec
+RPL: Nei (3c,  Pu=atif4ec, </br></br>4ec
+Send to 0 sensor data (191)
+</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (194)</br></br></br></br></br>-DIO with rank 512
+</br>Send to 0 sensor data (196)
+</br></br></br></br></br></br>Send to </br>==Rver, rank) = (hn=DIntina</br></br></br>RSend to 0 sensor data (200)
+</br></br></br>SenRPL: Sending</br></br>Send to 0 sensor data (202)
+</br></br></br>S=(id, ver, rank) = (30,240,256)
+=4iprefix</br></br>Send to 0 sensor data (204)
+</br>0</br>Send to 0 sensor data (205)
+</br></br></br>Send to 0 sensor data (206)
+</br></br></br></br></br></br>S</br>RP</br>or cache
+RPL: Incoming DIOe  lengDIrane</br></br>f4ec
+S</br></br></br></br></br></br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (215)
+</br></br></br>==Received an RPL control message
+==RPL: Received a DIO from fe8g_id, pref) = (aaaa::0212:4b00:0, E2IOar</br></br></br></br>2</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>==0::0212:4b00:0205:f4ec
+RPL: Neighb = (3en, mPa</br>SRPL: Sending DAO with prefix aaaa:</br></br></br></br></br></br> rank 512
+Send to 0 sensor data (225)
+</br></br></br></br></br></br>:0205:f4ec
+RPL: Neighbor alreadyL: DIO option 2, length: 6
+RPL: O option 4, length: 14
+RPL: DAG ste, nsSend to 0 sensor data (227)
+</br></br></br>RPL:</br></br></br></br></br></br>Send </br></br></br>Send to 0 sensor data (231)
+ank 512
+</br></br>Send to 0 sensor data (232)
+</br></br>e, aggr </br></br></br>0212:4b00:0205:f4ec
+S</br></br></br>S</br></br></br></br></br></br></br></br></br></br></br>=hbor cach (aaaa::0212:4b00:0205:f4ec, 0)
+gthmins512 S</br></br></br>Send to 0 sensor data (240)
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>SRPL: Sending prefix info in DIO f</br></br>==Received an RPL control message
+==RPL: Received a DIO from fe8:RPL: DAG conf:dbl=8, min=12 red=n n 
+</br></br>R21Send to 0 sensor data (247)
+</br></br></br></br></br></br>Send t</br></br></br></br></br></br></br>RPL: Sending prefix info in DIO f</br></br>Send to 0 sensor data (252)
+</br></br></br>Send to 0 sensor data (253)
+</br></br>0::0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+Rl, E2ancS</br></br></br>SRPL: Sending DAO with prefix aaaa</br></br></br></br></br></br></br></br></br></br></br>=04_u=m2iSe</br></br></br>RPL: Sending DAO with prefix aaa</br></br></br></br></br></br></br></br></br>for a</br></br></br></br></br></br></br></br>:0205:f4ec
+RPL: Neighbor already240,256)
+==RPL: Incoming DIO (dalengtnredt ra</br>S</br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::</br></br></br></br></br>Sen</br></br></br></br>h rank 512
+</br></br></br></br></br>Send =0:0205:f4ec
+RPL: Neighbor alreadec, 0)
+RPL: DIO option 2, length0u=65atecmet</br></br></br></br>0212:4b00:0205:f4ec
+</br>Sen</br></br></br>R</br></br></br></br></br></br></br></br>==205:f4ec
+RPL: Neighbor already i, length: 6
+RPL: DAG MC:ioc,etric 16, instance etx 128
+Send to 0 sensor data (277)
+</br></br>Send to 0 sensor data (278)
+</br></br></br></br></br>ast-DIO with rank</br></br></br></br></br></br></br></br></br></br></br></br></br></br>==R0::0212:4b00:0205:f4ec
+RPL: Neig, l_L: 05l</br></br>RPL: Sending DAO wi</br></br></br></br></br>th rank 512
+</br></br></br></br></br>=ee  lec= ar</br></br></br></br>0212:4b00:020Send to 0 sensor data (290)
+</br></br></br></br></br></br>Send to 0 sensor data (292)
+</br></br></br>Send to 0 sensor data (293)
+</br></br></br></br></br>ast-DIO with rank 512
+564eef:ionconsiSe</br></br></br></br></br></br>Send </br></br></br></br></br></br></br></br></br>Send to</br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br>or already in neighbor cache
+RPL: b0 7le=xaa::02iSe</br></br>0212:4b00:0205:f4ec
+</br></br></br></br></br></br></br></br></br>==Received an RPL control messag2, length: 6
+RPL: DAG MC: type 7, =It n_rncSend to 0 sensor data (307)
+</br></br></br>0212:4b</br></br></br></br></br></br></br>512
+</br></br>S</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (314)
+</br></br></br>0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor R maxis 1</br></br></br>SeR</br></br>RPL: Sending prefix info in DIO </br></br></br>S</br></br>0::0212:4b00:0205:f4ec
+RPL: Neig)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f4e aggr0k</br></br></br></br>RPL: Sending DAO with prefix aaaa</br></br>Se</br></br></br>Se</br></br></br>RPL: Sending prefix info in DIO f</br></br></br></br></br></br></br></br>==Received an RPL control m = (30,240,256)
+==RPL: Incoming g: =2:0ricSe</br></br></br></br></br></br></br></br>RPL: Sending prefix info in DIO f</br></br></br></br></br></br></br></br></br>e
+==RPL: Received a DIO from fe80::0212:4b00:0205:f4ec
+RPL: NeigeaIc red=10  e</br>RPL:</br></br></br></br>Send to 0 sensor data (334)
+</br></br></br>Send t</br></br></br></br></br></br>ast-DIO with rank 512
+Send to 0 sensor data (337)
+</br></br>0::0212:4b00:0205:f4ec
+RPL: Neigeighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+=le=2RPL0216,S</br></br></br>SenRP</br></br>Sen</br></br></br></br></br>Rast-DIO with rank 512
+</br></br></br></br>==256)
+==RPL: Incoming DIO (dag_id=6tion0x 0</br></br>RPL: Sending DAO with prefix aaaa</br></br></br></br></br>S</br></br></br>RPL: Sending prefix info in DIO fPL</br></br></br></br></br>Se==PL
+RPL:inengnt in</br></br>Send to 0 sensor data (350)
+</br></br></br></br></br></br>Send to 0 sensor data (352)
+</br></br></br></br></br></br>Se</br></br></br></br></br></br>=: Incoming DIO (dag_id, pref) =  IiL2in</br></br>0212:4b00:0205:Sen</br></br></br></br></br></br>Se</br>ast-DIO with rank 512
+</br>Send to 0 sensor data (360)
+</br></br></br>Send to 0 sensor data (361)
+</br></br></br>Send to </br></br></br>Send to 0 sensor data (363)
+</br></br>00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+RPL: Incomi212:, ledtinSend to 0 sensor data (364)
+</br></br></br></br></br></br>Send to 0 sens</br></br>k 512
+</br>Send</br></br></br>==Received an RPL control messagy in neighbor cache
+RPL: Incomin, pref) rec nf:=655</br></br></br></br>0212:4b00:0205:f4ec
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br>==P02flaga le: pre1</br></br></br></br>f4ec
+</br></br></br></br></br></br></br>Se</br></br></br></br></br></br>SRPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic512
+</br>==Received an RPL control messag240,256)
+=l option 4, length: 14
+RPL: DAG ch:IO
+RP</br></br>0212:4b00:0205:f4ec
+</br></br></br></br></br>Se</br></br></br>S</br></br></br></br></br></br>Send to 0 sensor data (386)
+ast-DIO with rank 512
+</br></br></br></br></br>Se</br>0::0212:4b00:0205:f4ec
+RPL: Neig
+, dbl=8 a2</br></br></br></br>02S</br></br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: NeigXd=ioncon 5</br>==RPL started
+UD=</br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neig: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (n gtmi: : N0,</br>RPL: Prb00:0205:f4ec (rank 1)
+R</br></br>==Received an RPL control messag: Incon</br></br></br>ast-DIO with rank 512
+</br></br></br></br></br>==R0::0212:4b00:0205:f4ec
+RPL: NeigP2, 12 re:: </br>RSe</br></br></br></br></br>S</br></br></br>Sen</br></br></br></br></br></br>==_id, pref) = (aaaa::0212:4b00:02ags 8, aggr 0, prec 0, length 2,option 4, length: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=6553O
+c</br></br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::</br>RPL: Sending prefix info in DIO f</br></br></br></br></br></br></br>Se</br></br></br></br></br></br></br></br></br></br></br></br>Send</br></br></br>Sen</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>Send to 0 sensor data (29)
+</br></br></br>S 512
+0::0212:4b00:0205:f4edte mst</br></br>SRPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::</br></br>Send</br></br></br></br></br></br>Send to 0 sensor data (34)
+</br></br></br>Send to 0 sensor data (35)
+</br></br></br>Send</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>Send </br></br></br></br></br></br>Sen</br></br></br></br></br></br>Send to 0 sensor data (45)
+</br></br></br>Send to 0 sensor data (46)
+</br></br></br>Sen</br></br></br></br></br></br>Send to 0 sensor data (49)
+</br></br></br>Send </br></br></br>Se</br>0::0212:4b00:0205:f4ec
+RPL: Neighbor cache
+RPL: Incoming DIO (id , flaDIOceiec,m</br></br></br></br></br></br></br></br></br></br></br>S</br></br></br>Send to 0 sensor data (56)
+</br></br></br>Send to 0 sensor data (57)
+RP512
+</br></br></br></br></br>Send to 0 sensor data (59)
+</br></br></br></br></br></br>S</br></br></br>Se</br></br></br></br></br></br>Send to 0 sensor data (64)
+</br></br></br>Send</br></br></br>Send to 0 sensor data (66)
+</br></br></br></br></br></br>Se</br></br></br>Send to 0 sensor data (69)
+</br></br></br>Send to 0 sensor data (70)
+</br></br></br>Send </br></br></br>Se</br></br></br>Send to 0 sensor data (73)
+</br></br></br>Send to 0 sensor data (74)
+</br></br></br>Send to 0 sensor data (75)
+</br></br></br>Send</br></br></br></br></br></br></br></br></br>Sen</br></br></br></br></br></br>Send to 0 sensor data (81)
+</br></br></br></br></br></br>Send to 0 sensor data (83)
+</br></br></br></br></br></br>S</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>Se</br></br></br></br></br></br>Send to 0 sensor data (94)
+</br></br></br></br></br></br>Sen</br></br></br></br></br></br>Send to 0 sensor data (98)
+</br></br></br>==O (id, ver, rank) = (30,240,256)eng,P: Re5:in</br></br>Send to 0 sensor data (100)
+</br>0212:4b</br>Send to 0 sensor data (101)
+</br></br></br></br></br></br>Send to 0 sensor data (103)
+</br></br></br></br></br></br>S</br></br></br></br></br></br>S</br></br></br></br></br></br>Send to 0 sensor data (109)
+</br></br></br></br></br></br>S</br></br></br></br></br></br>S</br></br></br></br></br></br>S</br></br></br></br></br></br>S</br></br></br>S</br></br></br></br></br></br>S</br></br></br></br></br></br>Send to 0 sensor data (122)
+</br></br></br></br></br></br>Send to 0 sensor data (124)
+</br></br></br></br></br>RPL: SeSen</br></br></br></br></br></br>Send to 0 sensor data (128)
+</br></br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+Rf) = (aaaa::0212:4b00:0205:f4ec,gg8, RPefearent Send to 0 sensor data (130)
+</br></br></br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f4ec
+</br></br></br></br></br>S</br></br></br></br></br>RPLst-DIO with rank 512
+</br></br>coming DIO (id, ver, rank)0205:f4ec, 0)
+RPL: DIO option 2,</br></br></br></br></br></br></br></br></br></br>Send to 0 sensor data (139)
+ast-DIO with rank 512
+</br></br></br>Send to 0 sensor data (140)
+</br></br>2:4b00:0205:f4ec
+RPL: Neighb,2r DA55RPL: 2, parent rank 256, parent etx 0Send to 0 sensor data (141)
+</br></br></br>SeRPL: Sending DAO with prefix aaaa:</br></br></br></br></br></br></br></br></br>Sen</br></br></br></br>ank 512
+</br></br></br></br></br></br></br></br>S==Re256)
+==RPL: Incoming DIO (dag_id, pth: 6
+RPL: DAG MC: type 7, flagsnc=17orrai</br>R</br></br></br></br></br></br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multick 512
+</br></br></br></br></br>Send to 0 sensor data (154)
+</br></br></br></br>==Received an RPL control message
+==RPL: Received a DIO from fe8g DIO (id, ver, rank) = (30,240,256opt, dion 8, length: 30
+RPL: Copying p0205, </br></br>205:f4ec
+Sen</br></br></br></br></br></br>Send to 0 sensor data (158)
+</br></br></br></br></br></br>S0::0212:4b00:0205:f4ec
+RPL: Neig30,240,256)
+==RPL: Incoming DIO (dag2L:25inf5:f4ink</br></br>RPS</br></br></br>Send </br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multi</br></br>S</br></br></br>S</br></br></br>Send </br>205:f4ec
+RPL: Neighbor already i: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2, ETX nRPL: preferred DAG aaaa::0212:4bx 0</br>S</br>RPL: Sending DAO with pre</br>Send to 0 sensor data (168)
+</br></br></br></br></br></br>S</br>RPL: Sending </br></br></br></br>Send to </br></br>:0205:f4ec
+RPL: Neighbor already(30,240,256)
+==RPL: Incoming DIO  2, length: 6
+RPL: DAG MC: type engthRPL: preferreSe</br></br></br>Send to 0 sensor data (174)
+0212:4b00:0205:f4ec
+</br>ank 512
+Send to 0 sensor data (175)
+</br></br></br>S</br></br></br>Sen</br></br></br>S</br></br>0::0212:4b00:0205:f4ec
+RPL: Neige
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0P_lon0x 0, link metric 16, instance et</br></br>RP</br></br></br></br></br></br></br></br>SRP</br></br></br></br></br>S</br></br></br>Send to 0 sensor data (185)
+0::0212:4b00:0205:f4ec
+RPL: NeigDL te m</br></br></br></br></br></br>S</br></br>RPL: Sending prefix info in Send </br></br></br>Send</br></br></br>Send to 0 s</br>==Received an RPL control message
+==RPL: Received a DIO from fe8PL: Incoming DIO (id, ver, rank)2lh:t mst</br></br></br></br>Send0212:4b00:0205:f4ec
+</br></br></br>Send to 0 sensor data (193)
+</br></br></br>S</br></br>0::0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+RDIO (, nc=255:f4 iRPL: Send</br></br>RP</br></br></br></br></br></br></br>Sen</br></br></br>Send to 0 sensor data (199)
+</br></br></br>Se</br></br>RPast-DIO with rank 512
+</br></br></br>Send to 0 sensor data (202)
+</br></br></br>Se==Rf4 4,nix aa, </br></br></br>R021</br></br></br></br></br></br>Send to 0 sensor data (206)
+</br></br></br></br>0:256)
+== o179h: IO
+RPL</br>ast-DIO with rank 512
+</br></br>0212:4b00:0205:f4ec
+</br></br></br></br>S</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (213)
+</br>ast-DIO with rank 512
+</br></br>gPL: Incoming DIO (dag_id, pref) 7, engd_ ina:k m</br></br>0Se</br></br></br></br></br></br>Send t</br></br></br></br></br></br></br></br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Seoming DIO (id, ver, rank) = (30,205, p _DIO</br>Send to 0 sensor data (221)
+</br></br>R</br></br></br></br></br></br></br>Send to 0 sensor data (224)
+</br></br></br>Send to 0 sensor data (225)
+</br></br></br>:0205:f4ec
+RPL: Neighbor already n
+option=1 d_,Se</br></br>2Send to 0 sensor data (227)
+</br></br></br></br></br></br></br></br></br></br></br></br></br>for aaaa::
+RPL: Sending a multicast-DIO with rank 512
+</br></br></br></br></br></br>Sen</br></br> 84
+u=at:4r</br></br></br></br>
+</br></br></br></br></br></br></br></br></br>dy in neighbor cache
+RPL: Incomid
+RPL: DAG MC: type 7, flags 8, an=6iv, rankSend to 0 sensor data (238)
+</br></br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br></br></br></br>512
+</br></br></br></br></br></br></br></br>S</br></br>O (id, ver, rank) = (30,240,256), 0)aggr  mRPL 51xSe</br></br></br></br></br></br></br></br></br>RPL: SendinS</br></br></br>Send to 0 sensor data (250)
+</br></br></br></br></br>f)ma, lst_rce e</br>Send to</br></br></br>S</br></br></br></br></br></br></br></br></br>SRP</br>nre 
+,</br>S</br></br></br>SeRPL: Sending DAO with prefix aaaa</br></br>S</br></br></br>Send to 0 sensor data (260)
+</br></br></br>Sen==0::0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+Rion 0
+RP def aa</br></br>R021</br></br></br>Se</br>ank 512
+</br>Send to 0 sensor data (264)
+</br></br></br>Send to 0 sensor data (265)
+</br></br></br></br></br></br>==0::0212:4b00:0205:f4ec
+RPL: Neigh = (30,240,256)
+==RPL: Incoming : 6
+RPL: DAG MC: type 7, flags 8d_fia56,</br></br></br></br></br></br></br></br></br></br></br></br>S</br></br></br></br></br></br>Send to 0 sensor data (273)
+</br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neigf) = (aaaa::0212:4b00:0205:f4ec, 0)
+RPL: DIO option 2, length: 6PL:m, preferred DAG aaaa::0212:4b00:02li</br></br>Send to 0 sensor data (275)
+0212:4b00:0205:f4ec
+RPL: Sending prefix info in DIO f</br></br></br></br></br></br></br></br></br></br></br>S</br></br></br></br>ast-DIO with rank 512
+</br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neig256f4ec, 0)
+RPL: DIO option 2, leng2 mi30R xS</br></br>0212:4b00:0205Se</br></br></br></br></br></br></br></br></br>
+RPL: Incoming DIO (id, ver, rank) RPL: x if4kS</br>RPL: Sending prefix info in DIO fulticast-DIO with rank 512
+Send to 0 sensor data (287)
+</br></br></br></br></br></br>Send to 0 sensor data (289)
+</br></br></br></br></br></br></br></br>RP</br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neighbor already in neighborDIO (d aPL:_l=n
+R0:020</br>S</br>0212:4b00:0205:f4ec
+</br></br></br></br></br></br></br></br></br></br></br>RPL: Sending prefix info in DIO fSe</br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neigl5
+ve ri</br></br></br>RPL</br></br></br></br></br></br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neigp:0
+RPL </br></br></br>S</br>0212:4b00:0205:f4ec
+</br></br>S</br></br></br>S 512
+</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (309)
+</br></br></br>S</br></br></br>S:0205:f4ec
+RPL: Neighbor already iIOc 05535
+ x 128</br>ast-DIO with rank 512
+</br>Send to 0 sensor data (312)
+0212:4b00</br></br></br></br></br></br></br></br></br></br></br>= (30,240,256)
+==RPL: Incoming Don5RPL</br>Send </br>4ec
+</br></br></br></br></br></br></br></br>S</br></br></br>Sen</br></br></br>Se</br></br></br></br></br></br></br>==R0::0212:4b00:0205:f4ec
+RPL: Neig(dag_id, pref) = (aaaa::0212:4b00:0205:f4ec, 0
+RPL: DIO option 4, length: 14
+d_fix inp</br> 512
+Send</br></br>Send to 0 sensor data (325)
+</br></br></br></br></br></br>Sen</br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neig205:f4ec, 0)
+RPL: DIO option 2, , E2  t1128</br>R</br>0212:4b00:0205:S</br></br></br></br></br></br>Send to 0 sensor data (331)
+</br></br></br>S</br></br></br></br></br></br>0:PL_id,: G con:0arentSend</br></br></br>Send to 0 sensor data (335)
+</br>R</br>Sen</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>Send to 0 sensor data (341)
+</br></br>==Received an RPL control messagdy in neighbor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,25:f0, 1 d_re05:lSen</br>ast-DIO with rank 512
+Sen</br></br></br></br></br></br></br></br></br></br></br></br></br>R==Rne 0DA6ionb00tx 0</br>Send to 0 sensor data (348)
+</br>R</br>S</br></br></br>S</br></br></br>Se</br>0::0212:4b00:0205:f4ec
+RPL: Neigeighbor cache
+RPL: Incoming DIO id, verlengthix :fn</br>S</br></br></br>Send to 0 sensor data (353)
+</br></br></br>Send to 0 sensor data (354)
+ast-DIO with rank 512
+</br></br></br></br></br></br></br></br></br>Se</br></br></br>Send to 0 sensor data (358)
+</br>0212:4b00:0205:f4ec
+RPL: Neighbo, 0)
+RPL ma, 4e </br></br></br>Se
+</br></br></br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br></br></br></br>S</br></br></br>Send to 0 sensor data (365)
+==Received an RPL control messag(id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, prefype4inc=25,RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a m</br>0212:4b00:0205:f4ec
+</br></br></br></br>Send to 0 sensor data (367)
+</br></br></br></br></br></br>Send to 0 sensor data (369)
+::0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor cacheIon ngt miL: Re:f46, </br></br>Sen</br></br></br></br></br></br></br></br></br></br></br>ank 512
+</br></br></br></br></br>Send to 0 sensor data (375)
+</br></br></br></br></br></br>00:0205:f4ec
+RPL: Neighbor alreags 8,ptt
+</br></br></br>SR</br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>=id00:7, engd_fi </br></br>R02Sen</br> 512
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>=c aPL: DAG  </br></br></br>RPh rank 512
+</br></br></br></br></br></br></br>S==(aaaa::0212:4b00:0205:f4ec, 0)
+RPL, D2ent</br></br>RSend to 0 sensor data (394)
+</br></br></br></br>k 512
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>S</br></br>b00:0205:f4ec
+RPL: Neighbor alreaMCt2inged 56S</br></br></br></br>RPL: Sending DAO with prefix aaaa</br></br>Send to 0 sensor data (403)
+k 512
+</br></br></br></br></br></br>S</br></br></br></br></br></br>o:D92 30
+RP 25S</br>RPL</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>PL: Incoming DIO (id, ver, rank)e0eferarSe</br></br>RPL: </br>R</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>:020 4e8
+RP=6t4b00:0</br></br>R2</br></br></br></br></br></br></br></br>Rth rank 512
+</br></br></br></br></br></br></br></br>Se</br></br>205:f4ec
+RPL: Neighbor already inre om
+draSe</br></br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic</br></br></br></br></br></br>ming DIO (id, ver, rank) = (30,24050G confef</br></br>RPL: S</br></br></br></br></br></br></br>RPL: Sending prefix info in DIO </br></br></br></br></br>Send to 0 sensor data (434)
+</br></br></br></br></br></br>S==, pref) = (aaaa::0212:4b4
+1r rank</br></br></br>RP</br></br></br></br></br></br></br>Send to 0 sensor data (440)
+ast-DIO with rank 512
+</br></br></br></br>212:4b00:0205:f4ec
+RPL: Neighborfth=255 nSe</br></br></br>a::0212:4b00:01ce:4b82 to fe80::</br></br></br></br></br></br></br></br></br>RanS</br></br></br></br></br></br></br></br>==Received an RPL control message (aaaa::0212:4b00:0205:f4ec, 0)
+RPret r</br></br></br>RP0212:4b00:0205:f4ec
+</br></br></br>Send to 0 sensor data (451)
+</br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic</br></br>Send to 0 sensor data (453)
+</br></br></br></br></br></br>e
+==RPL: Received a DIO from fe80205:f4ec
+RPL: Neighbor already in neighbRPd_l0 0</br></br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f4ec
+</br>t-DIO with rank 512
+</br></br></br></br>Sen</br></br></br>RPL: Neighbor fe80::0212:4b00:0205:f4ec is known. ETX = 1
+RPL: Preferred parent update, ran</br></br>SeR</br></br>Sen=0::0212:4b00:0205:f4ec
+RPL: Neiglered=10 maxinc=1792 mininc=256 ocp=1 d_l=255 l_u=65535
+RPL: DIO o</br></br>Send to 0 sensor data (462)
+</br></br></br>Send to 0 sensor data (463)
+</br></br></br>Send to 0 sensor data (464)
+</br></br>RPSend to 0 sensor data (465)
+</br></br></br>Se</br></br></br></br>==Rece:mi: Rk </br></br>RPL: Sending DAO with prefix aaaS</br></br></br>Send</br></br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br>=::L:IOonng m8, is</br>SR</br></br></br></br></br></br></br></br></br></br>ast-DIO with rank 512
+</br>==R205:f4ec
+RPL)op, l=8R020, lSe</br></br></br>Sen</br></br></br>Send to 0 sensor data (479)
+</br></br></br>Send to 0 sensor data (480)
+</br></br>Rnk 512
+</br></br></br></br></br></br></br>Send </br></br></br></br></br></br>0:PL: Incoming DIO (id, ver, rank):4peRRP02S</br></br></br></br>R021</br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicast-DIO with rank 512
+</br></br>Send to 0 sensor data (488)
+</br></br></br></br></br>::PL
+gthmi length: 30
+RPL: Copying prefix ::0212:4b00:0205:f4ec, rank 512,</br>Send to 0 sensor data (490)
+</br>RP</br></br></br></br></br></br></br></br></br></br>RO wiS</br></br></br></br></br></br></br></br></br>Sen</br></br>:4b00:0205:f4ec
+RPL:22c :d55on
+00:02</br></br>
+</br></br>ast-DIO with rank 512
+</br></br></br></br></br></br></br></br></br>S0::0212:4b00:0205:f4eDI2op212:4b00:0205:f4ec, rank 512, mince</br></br></br></br>205:f4ec
+</br></br></br></br></br></br></br></br></br>ast-DIO with rank 512
+</br></br></br></br>==Re0,240,256)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00 2, ETXat:4 eS</br></br></br>RPL: </br></br></br></br></br></br></br></br></br></br></br></br>Send</br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic= LETXredpt21</br></br></br>205:f4ec
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br>ast-DIO with rank 512
+</br></br></br>==Received an RPL control message
+==RPL: Received a DIO from fe8id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, pref)PL: DAG MC: type 7, flags 8, agglength 2, ETX 0
+RPL: DIO option iref12nt </br></br></br>RPL: Sending DAO with prefix aaaa</br></br></br></br></br>Send to 0 sensor data (524)
+</br></br></br></br></br></br>Sen</br>==Received an RPL control message
+==RPL: Received a DIO from fe8 DIO (id, ver, rank) = (30,240,248, aggr 0, prec 0, length 2, ETX 0
+RPL: DIO option 4, length: 1465535
+L:12,128</br></br></br></br>0212:4b00:0205:f4ec
+Se</br></br></br>Send to 0 sensor data (529)
+</br></br>512
+Send</br></br></br>e
+==RPL: Received a DIO from fe8PIOgth: 14 l_or2ink me</br></br></br>R</br></br>S</br></br></br>Send to 0 sensor data (534)
+</br></br></br>Send to 0 sensor data </br></br></br>S</br></br></br>RPL: S</br></br></br></br></br></br>Se= DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id,h:DAG conf:dbl=8, min=12 red=10 maxinc=1792, </br>S</br></br></br></br></br></br></br></br></br></br></br></br></br>Send</br></br></br>Send t</br></br>0:0  DA255o016,</br></br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::
+</br></br></br></br></br></br>S</br></br></br></br></br>5:f4ec
+RPL: Neighbor already in P m0
+PLk 256R512
+</br></br></br>0212:4b00:0205:f4ec
+</br></br></br></br></br></br></br>Send to 0 sensor data (554)
+</br>t-DIO with rank 512
+</br></br></br></br></br>==Received an RPL control message
+==RPL: Received a DIngth: 6
+RPL: DAG MC: type 7, flags 8AG conennarent rank 256, parent etx </br></br>Send </br></br></br></br></br></br>Sen</br></br></br></br></br>512
+</br></br></br></br></br></br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neig6 tn inininf::0parenSend</br></br></br>0Se</br></br></br></br></br></br>RPt</br>0::0212:4b00:0205:f4ec
+RPL: Neig32, aen</br></br></br>Send to 0 sensor data (569)
+</br></br></br></br></br></br>Send</br></br></br></br></br></br></br></br></br></br></br></br>=:0205:f4ec
+RPL: Neighbor alreadyor cache
+RPL: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: 2ma,2,</br></br></br></br>02</br></br></br></br></br></br></br></br>S</br></br></br></br></br></br></br></br>:0205:f4ec
+RPL: Neighbor alreadyn DIOrecnf:=65t4b00:02</br></br></br>05:f4ec
+</br></br></br></br></br></br></br></br></br></br></br></br>0::0212:4b00:020ngth: 14
+Rceec,m</br>RPLk 512
+</br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f4ec
+</br></br></br></br></br></br>Send to 0 sensor data (589)
+</br></br></br></br></br></br>Sen</br>512
+</br></br></br></br>==Rec2:4b00:0205:f4ec, 0)
+RPL: DIO option 24iL:p </br>RPL</br></br></br></br></br></br></br></br></br></br></br></br>ast-DIO with rank 512
+</br></br></br></br></br></br></br>==Received an RPL control messagPL: DIO option 2, length: 6
+RP min=12 red=10 maxi Cefera</br></br></br></br>S</br></br></br></br></br></br></br></br></br>=05:f4ec
+RPL: Neighbor already inRL2o021Sen</br></br></br>Send to 0 sensor data (605)
+</br></br></br></br></br></br>Send to 0 sensor data (607)
+</br></br></br>S</br></br></br></br></br>e
+gTeenian</br>Se</br></br></br></br></br></br>S</br>RP</br></br></br></br></br></br></br>Se</br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neigid, ver, rank) = (30,240,256)
+==on 5 1</br></br></br>4ec
+S</br></br></br>Send</br></br></br>S</br></br></br>Send</br></br></br>S</br></br></br>Send </br>512
+</br></br></br></br></br>S</br></br></br>Send to 0 sensor data (626)
+</br></br></br>Send</br></br></br></br></br></br>Sen</br>0::0212:4b00:0205:f4ec
+RPL: Neig: Incoming DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIn: , n</br>S</br></br></br>RPL: Sending DAO with prefix aaaSe</br></br></br>Sen</br></br></br></br></br></br>Send to 0 sensor data (634)
+</br></br>0::0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+Ref6
+RP lengt :f4ecSend to 0 sensor data (635)
+</br></br></br>Se:f4ec
+</br></br></br></br></br></br>Sen</br></br></br>S</br></br></br>Send to 0 sensor data (640)
+</br></br></br>Send to 0 sensor data (641)
+</br></br></br>for aaaa::
+RPL: Sending a multich rank 512
+==Received an RPL control message
+==RPL: Received a DIO from fe80PL: Incoming DIO (id, ver, rank) = (ec
+pref p</br></br></br>RPL: Sending DAO with prefix aaaa</br></br>Send to 0 sensor data (644)
+</br></br></br></br></br></br>Sen</br>0::0212:4b00:0205:f4ec
+RPL: Neig: =255 l, 8
+</br></br></br></br>R</br></br></br>RPL: Sending prefix info in DIO </br></br></br></br>Send to 0 sensor data (650)
+</br></br></br></br></br></br></br></br>:0205:f4ec
+RPL: Neighbor already
+RPL: DIO option 2, lengng5m</br>Send to 0 sensor data (653)
+0212:4b00:0205:f4ec
+</br>R</br></br></br></br>Send t</br></br></br></br></br></br>Se</br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neig (daengt25opeen</br></br>0Se</br></br></br>Sen</br></br></br>SenRPL</br></br></br></br></br></br></br></br></br>Send</br></br></br></br></br></br>=0::DIied=10 mrmat1n</br></br></br>RPL: Sending DAO with p</br>Send to 0 sensor data (668)
+</br></br></br>Send </br></br></br>Send</br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: NeiggO=th:5:fink</br></br></br>0212:4b00:0205:f4ec
+</br></br></br>or</br></br></br></br></br></br>S</br></br></br></br>RPast-DIO with rank 512
+==Received an RPL control messagh)
+R=8,8, leng, </br></br></br></br>a::0212:4b00:01ce:4b82 to fe80::0</br></br></br>S</br></br></br></br></br></br>RPL: Neighbor fe80::0212:4b00:0205:f4ec is known. ETX = 1
+RPL: Preferred parent update, ran</br></br>05:f4ec is known. ETX = 1RPL</br>ast</br>205:f4ec
+RPL: Neighbor already i, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, L:65i Se</br></br></br>RPL: Sending DAO with prefix aaaa</br></br></br></br></br></br></br></br></br>f4ec
+RPL: Neighbor already in ne240,256)
+==RPL: Incoming DIO (dalenPLmax,5:finsSend </br></br>ec
+</br></br></br></br></br></br></br></br></br>nk 512
+</br>S</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (695)
+</br></br></br>==Received an RPL control messageeived a DIO from fe80::0212:4b00, ver, rank) = (30,240,256)
+==RPag l2,12O DIO
+RPL: preferred DAG aaaa::02</br></br>RSend to 0 sensor data (697)
+</br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic</br></br></br></br></br></br></br></br></br>S</br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic</br>=0::0212:4b00:0205:f4ec
+RPL: Neig=L:gth6 ocya: pa</br>Send to 0 sensor data (703)
+</br></br></br>5:f4ec
+</br></br></br></br></br></br>Send to 0 sensor data (706)
+</br></br></br>Send to 0 sensor data (707)
+</br></br></br>Send to 0 sensor data (708)
+</br>==Reags 1patioank </br></br></br></br>RPL: Sending prefix info in DIO f</br></br></br></br></br></br></br></br></br>Se</br></br></br>Sen</br>0::0212:4b00:0205:f4ec
+RPL: Neig,  8, agi pr, 8</br></br>0</br></br>Send </br></br></br></br></br></br>S</br>0::0212:4b00:0205:f4ec
+RPL: Neig256)
+==RPL: Incoming DIO (dag_idth:Xm, length, </br>S</br></br>4ec
+</br>S</br></br></br>Send </br></br></br>Send</br></br>t</br></br></br></br>Sen</br></br></br>Send to 0 sensor data (725)
+</br></br></br>Send to 0 sensor data (726)
+240,256)
+==RPL: Incoming DIO (dalength: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, length 2
+RPk </br></br>Send to 0 sensor data (727)
+ank 512
+R</br></br>Send to 0 sensor data (728)
+</br></br></br>Send</br></br></br>Se</br></br></br>Se</br></br></br>S</br>0205:f4ec
+RPL: Neighbor alr, aR:n</br>SRPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f4ec
+</br></br></br></br></br>RP rank 512
+</br></br></br>Send </br></br></br>Se==0::0212:4b00:0205:f4ec
+RPL: Neige  d_5in</br></br></br></br></br></br></br></br>Send to 0 sensor data (740)
+</br>ast-DIO with rank 512
+</br>Sen</br></br></br>Send to 0 sensor data (742)
+</br></br></br>Send to 0 sensor data (743)
+</br></br></br>S</br></br></br>==Received an RPL control messag6)
+==RPL: Incoming DIO (dag_id, pref) = (aaaa::0212:4b00:0205:f4RP30
+0x 0, liS</br></br></br>RR</br>Send to 0 sensor data (747)
+</br></br></br></br></br></br>Send</br></br></br></br></br>==0:0205:f4ec
+RPL: Neighbor alreadef) = (aaaa::0212:4b00:0205:f4ecL:lx ib00tx SRPL:R</br></br></br></br></br></br></br></br></br></br></br>205:f4ec
+RPL: Neighbor already i256)
+==RPL: Incoming DIO (dag_id, pth:tio2 m30rtS</br></br></br></br></br></br></br></br></br>S</br></br></br></br>R</br></br></br></br></br></br></br></br>==Received an RPL 7,leopeent S</br></br>Se</br></br></br></br></br></br>Rast-DIO with rank 512
+</br></br></br></br>gTXh: 30
+RPL: Copying prefix info s</br></br>R0212:4b00:0205:f4ec
+</br></br></br></br></br></br></br></br></br></br></br></br></br>S</br></br></br></br>00:0205:f4ec
+RPL: Neighbor alrea in neighbor ca preaggLsi12, m</br></br>S</br>R</br></br></br></br></br>Send </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>ank) = (30,240,256)
+==RPL: Incomin4
+R1R0205:</br></br>SenRPL:</br></br>Send to 0 sensor data (782)
+</br></br></br></br></br></br>S-DIO with rank 512
+</br></br></br></br></br></br></br>0:0205:f4ec
+RPL: Neighbor alread, length: 6
+RPL: DAG MC: type 7, gth: 14
+RPL: DAG conf:dbl=8, min=12 red=10 maxinc=1792 mininc=25nare</br>S</br>0212:4b00:0205:f4ec
+</br></br></br></br></br></br>a</br></br></br></br></br></br></br>=r, rank) = (30,240,256)
+==RPL: I, ni2ins</br>Se</br>0:0205:f4e</br></br>S</br></br></br></br></br></br>ast-DIO with rank 512
+S</br></br></br>S</br></br></br>Se</br></br></br>5:f4ec
+RPL: Neighbor already in c:dd ank 5Send to 0 sensor data (798)
+</br></br></br></br>RPL</br></br></br></br></br>Send</br></br></br>S</br>0::0212:4b00:0205:f4ec
+RPL: Neig2lags u=6RP0</br>RPL: Sending prefix info in DIO f</br></br>0</br></br></br></br></br></br></br></br></br></br></br></br></br>Send to 0 sensor data (808)
+</br></br></br> 512
+</br></br></br></br></br>_id, pref) = (aaaa::0212:4b00:02gr io </br></br>RPL: Sending DAO with prefix aaa</br>Sen</br></br></br>Send to 0 sensor data (813)
+</br></br>RPL: SenSend to 0 sensor data (814)
+</br></br></br>Send to 0 sensor data (815)
+</br>flath:  information
+RPL: Received consis minstan</br></br></br></br>RPL: Sending DAO with prefix aaaSe</br></br></br></br></br>ast-DIO with rank 512
+</br></br></br></br></br></br>Send to 0 sensor data (821)
+</br></br></br></br>=4b00:0205:f4ec
+RPL: Neighbor alr0 o pr,8
+</br></br>S</br>212:4b00:0205:f4ec
+</br></br></br></br></br></br>h rank 512
+</br></br></br></br></br></br></br>S</br>==Received an RPL control messagIre
+R0 </br></br></br></br></br></br></br></br></br></br></br></br></br>Se</br></br></br>Send to 0 sensor data (833)
+</br></br></br></br></br>==R::0212:4b00:0205:f4ec
+RPL: Neighd : DAG l_uo21li</br>Send to 0 sensor data (835)
+</br>0212:4b00:0205:f4ec
+</br></br></br></br></br></br></br>Send </br>rank 512
+</br></br></br></br></br></br></br></br>==Received an RPL control messag,256)
+==RPL: Incoming DIOC: type 7, flags 8, aggr 0, prec0, length 2, ETX 0
+RPL: DIO optimin21et</br></br></br></br></br></br></br></br></br>for aaaa::
+RPL: Sending a multic</br>==Received an Rghbor cache
+RPL: Ib00:0lenr</br></br></br></br>RPL: Sending DAO with prefix aaa</br>Send to 0 sensor data (846)
+</br></br></br></br></br></br>Send t</br>rank 512
+</br></br></br></br></br>S</br></br></br></br></br></br>comi, 2, Etio4b0 meS</br></br></br>SRPL:</br></br>Send to 0 sensor data (854)
+</br></br></br></br></br></br>RPL: Sending prefix info in DIO </br></br></br>Se</br></br></br>==Received an RPL control messageDIO option 2, length: 6
+RPL: DAG MC14
+tionO
+net</br></br>Se</br></br></br>Send to 0 sensor data (860)
+</br></br></br></br></br></br>Send </br></br></br></br></br>h rank 512
+</br></br></br>0:0205:f4ec
+RPL: Neighbor alreadon 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr 0, prec 0, lemaxi ia 0</br></br>5:f4ec
+</br></br></br></br></br></br></br></br>Send to 0 sensor data (868)
+0::0212:4b00:0205:f4ec
+RPL: Neig56)
+==RPL: Incoming DIO (dagh:  0=1on  51</br></br>RPS</br>RPL: Sending prefix info in DIO f</br>Send </br></br></br></br></br></br>Send t</br></br></br></br></br></br>RPw</br></br></br>PDIOtX 0ion 512 12</br></br></br></br>02</br></br></br></br>Send to 0 sensor data (878)
+</br></br></br></br></br></br>Send to 0 sensor data (880)
+</br>==Received an RPL controlhbor already in neighbDIO (dag_id, pref) = (aaaa::0212 </br></br></br></br>RPL: RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicast-DIO with rank 512
+</br></br></br></br></br></br>Send to 0 sensor data (884)
+</br></br></br></br></br></br></br></br>:0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+RPLb0 7l_l6,</br>SRP</br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::5:f4ec
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>ast-DIO with rank 512
+Send </br>0::0212:4b00:0205:f4ec
+RPL: Neigr, rank) = (30,240,256)pnc=: re</br></br>Send to 0 sensor data (895)
+R</br></br></br></br></br></br>Send to 0 sensor data (</br></br></br>SeRPL: Sending prefix info in DIO fPL</br></br>0::0212:4b00:0205:f4ec
+RPL: Neig Rdfon</br></br></br></br>Se</br></br></br></br></br></br></br></br></br></br></br></br></br>Send to 0 sensor data (904)
+</br></br></br></br></br></br>512
+Send </br> = (30,240,256)
+==RPL: Incoming ion, lener</br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f4ec
+</br></br>S</br></br></br></br></br></br></br>Rast-DIO with rank 512
+=y in neighbor cache
+RPL: Incomin, pref) = (aaaa::0212:4b00:0205:bl=8,</br></br></br>RPL: Sending DAO with prefix aaaa</br></br></br>Send to 0 sensor data (913)
+</br></br></br>Send to 0 sensor data (914)
+</br></br></br>Send to 0 sensor data (915)
+</br></br></br>S</br></br></br></br>bor already in neighIO (dag_id, pref) = (aaaa::0212:ag=65tt</br></br>RPL: Sending DAO with prefix aaaa::0212:4b00:01ce:4b82 to fe80::RPL: Sending prefix info in DIO f</br></br></br></br></br></br></br></br></br></br></br></br></br></br>ast-DIO with rank 512
+Send to 0 sensor data (923)
+</br></br></br></br></br>pr017a:4eSen</br></br></br>Se</br></br></br></br></br></br>Send to 0 sensor data (928)
+</br></br>ast-DIO with rank 512
+</br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neigk) = (30,24</br>RP</br>Send to 0 sensor data (931)
+</br></br></br></br></br></br>Sen</br></br></br></br></br></br>ast-DIO with rank 512
+</br></br></br>Se</br>5:f4ec
+RPL: Neighbor already in p, 1 rlin</br></br></br></br></br></br></br></br></br></br></br></br></br></br>=240,256)
+==RPL: Incoming DIO (daggr  D55onraic</br>R</br></br></br>RPL:Send to 0 sensor data (943)
+</br></br></br></br></br></br></br></br></br></br>S</br></br></br>Se</br></br>RPL: Sending prefix info in DIO Send :4b00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+RPL: Incg_i 0, prec :Ot</br></br></br>SenRPL</br></br>Send to 0 sensor data (950)
+</br></br></br>Send to 0 sensor data (951)
+</br></br></br>Send to 0 sensor data (952)
+</br>eighbor already in nenoX 0d=0
+RPLet</br></br>RP</br></br>Sen</br></br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multica</br>Send to 0 sensor data (956)
+</br></br></br></br></br></br>Send to</br></br></br>S</br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multicast-DIO with rank 512
+</br>0::0212:4b00:0205:f4ec
+RPL: Neig12:4b00:0205:f4ec, 0)
+RPL: DIO o l=8, 
+RPPL:2</br>Send to 0 sensor data (961)
+4ec
+</br></br></br></br></br></br></br></br></br>Send to 0 sensor data (964)
+</br></br></br></br></br></br>S0 =, Rd_fix in
+</br></br>0212:4b00:0205:f4ec
+</br></br></br>RPL: Sending prefix info in DIO f</br></br></br></br>Se</br></br></br></br>==Received an RPL control messaglength: 6
+RPL: DAG MC: type 7, f8, length: 30
+RPL: Copying prefi</br></br>R</br></br></br></br></br></br></br></br>Se</br></br></br></br></br></br>S</br></br></br></br>ast-DIO with rank 512
+IO 2:ype4, lL: C pa</br></br></br></br>RPS</br></br></br>S</br></br></br></br></br></br></br></br></br></br>S==Received an RPL control messagea DIO from fe80::0212:4b00:0205:g DIO (dag_id, pref) = (aaaa::02ty niPar</br></br>RPL: Sending DAO with prefix aaaa</br></br>Send to 0 sensor data (985)
+</br></br></br>512
+Se</br></br></br>S</br></br></br></br></br></br>==Received an RPL control message
+==RPL: Received a DIO from fe80:056 l2,12 O opik</br></br></br>RPL: Sending prefix info</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>eighbor already in neighbor cach =10oons ms</br></br>RPL: Sending prefix info in DIO R</br>Send t</br></br></br></br></br></br>S</br></br></br></br></br></br></br></br> (0 D255 infmet</br>S</br></br></br></br></br></br>RP512
+Se</br></br></br>Send to 0 sensor data (1006)
+</br></br>0::0212:4b00:0205:f4ec
+RPL: Neighbor already in neighbor cache
+Rg_idleO =1 pnkS</br></br></br>Send to 0 sensor data (1008)
+</br></br></br>Send to 0 sensor data (1009)
+</br></br></br>Se</br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multich rank 512
+</br></br>Send to 0 sensor data (1012)
+</br></br></br>Send to 0 sensor data (1013)
+</br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: NeigaDAG MC: type 7, flags 8, aggr 0,con30
+R 5x 12</br>RSend to 0 sensor data (1015)
+</br>c</br></br></br></br></br></br></br></br></br></br>0::0212:4b00:0205:f4ec
+RPL: Neig neighbor cache
+RPL: Incoming DIef) = (aaaa::0212:4b00:0205:f4ecag8, min=prefeSend </br></br></br>R</br></br></br></br></br></br>Se</br></br></br></br>RPL: Sending prefi</br></br></br></br></br></br></br></br>:f4ec
+RPL: Neighbor already in nei:X 0d=ionc, iSen</br></br></br>S</br></br></br></br></br></br>Send to 0 sensor data (1029)
+512
+</br></br></br></br></br></br></br>ighbor cache
+RPL: IncP: Dxinc=1nfnk 51</br></br></br>05:f4ec
+</br></br></br></br></br></br></br></br>SeRPL: Sending prefix info in DIO f</br></br></br></br></br></br></br></br></br></br></br></br>==Received an RPL control messaming DIO (id, ver, rank) = (30,240,256)
+==enop792 m mSen</br></br></br>a::0212:4b00:01ce:4b82 to fe80::0212:4b00:0205:f4ec
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id,  MC: type 7, flags 8, aggr 0, pr92RPL: , </br></br>h rank 512
+SendRPL:212:4b00:0205:f4ec
+</br></br></br>Send to 0 sensor data (1047)
+</br></br></br></br></br></br>S</br>0::0212:4b00:0205:f4ec4ec, 0)
+RPL: DIO option 2, length: 6
+RPL: DAG MC: type 7, flags 8, aggr c </br></br></br></br>RPL: Sending DAO with prefix aaa</br></br></br></br></br></br></br></br>S</br></br></br></br>ef) = (aaaa::0212:4b00:0205:f4ecgth6aa</br>S</br></br>RPL: Sending DAO with prefix aaaS</br></br></br></br></br></br>Send RPL</br></br>Send to 0 sensor data (1059)
+</br></br></br>Send </br></br></br>Send to 0 sensor data (1061)
+</br></br></br></br>aDA2ixaa6,</br></br></br></br>0212:4b00:0205:f4ec
+Se</br></br></br></br></br></br>Send to 0 sensor data (1066)
+st-</br></br>==Recei::0MC: type 7, flags 8, aggr 0, pre oction
+Send to 0 sensor data (1067)
+</br>5:f4ec
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br>ast-DIO with rank 512
+</br></br></br>f4ec
+RPL: Neighbor already in ne, ver, rank) = (30R0, 5
+RPLd</br>Se</br>0212:4b00:0205:f4ec
+</br>Send to 0 sensor data (1074)
+</br></br></br></br></br></br></br></br></br></br></br></br>RPL: Sending prefix info in DIO Sen</br></br></br></br></br>, ver, rank) = (30,240,256)
+==RPRPlemin: m1</br></br></br>R</br></br></br></br></br></br>Sen</br></br></br>R</br></br></br>ec
+RPL: Neighbor already in neighb : DAG6ib0r</br></br></br></br>RPL: Sending DAO with prefix aaa</br></br></br></br></br></br></br> 512
+</br></br></br></br></br></br></br></br></br></br>e
+==RPL: Received a DIO from fe80::0212:4b00:0205:f4ec
+RPL: Neig =:4s 14=prek 2</br></br></br>S</br></br></br></br></br></br>for aaaa::
+RPL: Sending a multicnk 512
+</br></br></br></br></br></br>O option 2, length: 6
+RPL: DAG Mio5n5Send </br></br></br>Send to 0 sensor data (1098)
+</br></br></br></br></br></br></br></br></br></br>Send</br></br></br>Send</br>k 512
+</br>Send t</br></br></br>Send to 0 sensor data (1104)
+</br></br></br>==Received an RPL control message
+f4ec, 0)
+RPL: DIO option 2, lengninix info</br></br></br></br></br></br></br></br></br>RPL: Sending prefix info in DIO f</br></br>S</br></br>DIO (id, ver, rank) = (30,240,256)
+==RPL: Incoming DIO (dag_id, MC:2 yireank </br></br></br></br>RPL: Sending DAO with p</br></br></br></br></br></br></br></br></br>rank 512
+</br></br></br></br></br></br></br>==::0212:4b00:0205:f4ec
+RPL: Neigh0, fngt56 opyi:02a</br></br></br></br></br></br></br></br>Send to 0 sensor data (1119)
+</br></br>RPL: Sending prefix info in DIO Se</br></br></br></br></br></br>==Received an RPL control messagneighbor cache
+RPL: Incoming f) = (aaaa::0212:4b00:0205:f4ec,ninRPetxSend to 0 sensor data (1122)
+</br>R</br></br></br></br>Send </br></br></br></br></br></br>ast-DIO with rank 512
+</br></br></br></br>=:0205:f4ec
+RPL: Neighbor already 5 2th 2,opy:0a</br>RPL: Send</br></br></br></br></br></br>S</br></br></br></br></br></br></br></br></br></br>==Received an RPL control message
+==RPL: Received a DIO from fe80::0212:4b00:0205:f4ec
+RPL: Neig,n=Diste2, 1</br></br>Send</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>S</br></br></br>256)
+==RPL: Incoming DIO (dag_idbl3ke </br>ec
+</br></br></br></br></br></br></br></br></br></br>Sen</br></br></br>Sen</br></br></br></br></br>==Received an RPL control messagek) = (30,240,256)
+==RPL: Incomin: 82</br></br></br></br>5:f4ec
+</br></br></br></br></br></br>ast-DIO with rank 512
+S</br>f4ec
+RPL: Neighbor already in nerec 0, length 2, ETX 0
+RPL: DIO nPA</br></br>S</br>02</br></br></br></br></br></br></br></br></br></br></br></br>RPL: Sending prefix info in DIO for aaaa::
+RPL: Sending a multic rank 512
+</br></br></br></br></br></br></br></br></br>S</br>0::0212:4b00:0205:f4ec
+aaA op179h: 30ic 16</br></br></br></br>4ec
+Send to 0 sensor data (1161)
+</br></br></br></br></br></br>Send to 0 sensor data (116</br></br></br></br></br></br>Send </br></br>=0en256 orm21S</br>R0212:4b00:0205:f4ec
+</br></br></br></br></br></br>Send </br>512
+</br>S</br></br></br>Send to 0 sensor data (1170)
+</br></br></br>Send to 0 sensor data (1171)
+id, pref) = (aaaa::02120G ngtht n_nce</br>0212:4b00:0205:f4ec
+</br>S</br></br></br></br></br></br></br></br>RP</br></br></br></br></br></br></br></br></br>

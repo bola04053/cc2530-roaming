@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home | 6Lowpan Roaming</title>
+  <meta charset="utf-8">
+  {% load staticfiles %}
+  <link rel="stylesheet" type="text/css" href="{% static 'css/reset.css' %}"/>
+  <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}"/>
+  <link rel="stylesheet" type="text/css" href="{% static 'css/selfDefinedButton.css' %}"/>
+  <link rel="stylesheet" type="text/css" href="{% static 'css/table-style.css' %}"/>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+  <script type="text/javascript" src="{% static 'js/cufon-yui.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/cufon-replace.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/Humanst521_BT_400.font.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/Humanst521_Lt_BT_400.font.js' %}"></script>
+  <script type="text/javascript" src="{% static 'js/custom.js' %}"></script>
+  <script type="text/javascript">
+	$("#scroll_text").on("load", function(){
+		var objDiv = document.getElementById("scroll_text");
+			objDiv.scrollTop = objDiv.scrollHeight;
+	});
+  </script>
+   
+</head>
+
+<body>
+  <!-- header -->
+  <header>
+    <div class="container">
+    	<h1><a href="index.html">6Lowpan Roaming</a></h1>
+      <nav>
+        <ul>
+        	<li><a href="#" class="current">Demo</a></li>
+          <li><a href="#">UDP</a></li>
+          <li><a href="#">TCP</a></li>
+          <li><a href="Topography.html">Topography</a></li>
+        </ul>
+      </nav>
+    </div>
+	</header>
+  <!-- #gallery -->
+  <section id="gallery">
+   
+  <div class="main-box" align="right">
+   </br></br></br></br></br></br><h2 align="middle">This is the <span>DEMO</span> for 6Lowpan roaming.</h2> 
+   <table align="left" cellpadding ="1" cellspacing="1" border="0" width="510px" style="table-layout:fixed;">
+    	<tr>
+			<td align="left" valign="left">
+				<div id="scroll_text" style="height:260px;width:500px;border:2px solid #ccc;font:15px/26px Lucida Grande, Serif; overflow:auto;">
+					<a id="serial_print">Serial print</a> 
+				</div>
+			</td>
+		</tr>
+		
+		<tr>
+			<tr>
+				<td align="middle"  valign="middle">
+						<h3>Serial Port Number: </h3>
+				</td>
+				<td align="middle"  valign="middle">
+					<select id="port_no">
+						 <option value="0" selected="selected">USB0</option>
+						 <option value="1">USB1</option>
+						 <option value="2">USB2</option>
+						 <option value="3">USB3</option>
+					</select>
+				</td>
+				<td align="middle"  valign="middle">
+					<a class="button green" onClick="startSerial()">Start</a>
+				</td>
+				<td align="middle"  valign="middle">
+					<a class="button rosy" onClick="clearTimeout(a)">Stop</a>
+				</td>
+				<td align="middle"  valign="middle">
+					<a class="button gray" onClick="clear()">Clear</a>
+				</td>
+			</tr>
+		</td>
+    </table>
+	<table align="middle" cellpadding ="1" cellspacing="1" border="0" width="800px" style="table-layout:fixed;">
+    	<tr>
+			<td class="highlighting1"  align="right" valign="middle" style="font-size:20px" width="200px" height = "50px">
+				Received Data: 
+			</td>
+			<td align="middle" valign="middle">
+				<a id="recv_data"></a> 
+			</td>
+		</tr>
+		<tr>
+			<td class="highlighting2"  align="right" valign="middle" style="font-size:20px" width="200px" height = "50px">
+				Source Address: 
+			</td>
+			<td align="middle" valign="middle" >
+				<a id="source_addr"></a> 
+			</td>
+		</tr>
+		<tr>
+			<td class="highlighting3"  align="right" valign="middle" style="font-size:20px" width="200px" height = "50px">
+				Destination Address: 
+			</td>
+			<td align="middle" valign="middle" >
+				<a id="dest_addr"></a> 
+			</td valign="middle" >
+		</tr>
+		<tr>
+			<td class="highlighting4"  align="right" valign="middle" style="font-size:20px" width="200px" height = "50px">
+				Via Router: 
+			</td>
+			<td align="middle" valign="middle" >
+				<a id="via_router"></a> 
+			</td>
+		</tr>
+		<tr>
+			</br></br>
+		</tr>
+		<tr>
+			<td>
+			</td>
+			<tr>
+				<td align="middle"  valign="middle">
+					<h3>Protocol type</h3>
+					<input id="udp" type="radio" name="type" value="udp" size="5" onClick="setType('udp')">UDP</input>
+					<input id="tcp" type="radio" name="type" value="tcp" size="5" onClick="setType('tcp')">TCP</input>
+				</td>
+				<td align="middle"  valign="middle">
+					<h3>Receive frequency</h3>
+					<select id="frequency">
+						 <option value="1" selected="selected">1 second</option>
+						 <option value="2">2 seconds</option>
+						 <option value="3">3 seconds</option>
+						 <option value="4">4 seconds</option>
+					</select>
+				</td>
+				<td align="center"  valign="middle">
+					<a class="button green" onClick="startRecv()">Start</a>
+					<a class="button rosy" onClick="clearTimeout(b)">Stop</a>
+				</td>
+			</tr>
+		</td>
+    </table>
+	</br></br></br>
+  </div>
+  
+  
+
+  </section>
+  <!-- /#gallery -->
+  <div class="main-box">
+    <div class="container">
+      <div class="inside">
+        <div class="wrapper">
+        	<!-- aside -->
+          <aside>
+            <h2>Program <span>Features</span></h2>
+            <!-- .news -->
+			<ul class="news">
+				<li>
+					<figure><strong>1</strong></figure>
+					<h3><a href="#">Sensor reading</a></h3>
+					<a href="#">Read mobile nodes data</a>
+				</li>
+				<li>
+					<figure><strong>2</strong></figure>
+					<h3><a href="#">Node roaming</a></h3>
+					<a href="#">Node roaming in different 6Lowpans</a>
+				</li>
+				<li>
+					<figure><strong>3</strong></figure>
+					<h3><a href="#">ICMPv6 support</a></h3>
+					<a href="#">Ping6 to any node</a>
+				</li>
+				<li>
+					<figure><strong>4</strong></figure>
+					<h3><a href="#">Serial port reading</a></h3>
+					<a href="#">Read serial port print</a></br>
+				</li>
+				<li>
+					<figure><strong>5</strong></figure>
+					<h3><a href="#">UDP/TCP</a></h3>
+					<a href="#">Transmit data 6Lowpan <-> Ipv6</a></br>
+				</li>
+            </ul>
+            <!-- /.news -->
+          </aside>
+          <!-- content -->
+          <section id="content">
+            <article>
+            	<h2> <span>ICMPv6 ping - </span>check connection</h2>
+				<table align="middle" cellpadding ="1" cellspacing="1" border="0" width="800px" style="table-layout:fixed;">
+					<tr>
+						<td align="left" valign="left">
+							<div id="scroll_text" style="height:260px;width:500px;border:2px solid #ccc;font:15px/26px Lucida Grande, Serif; overflow:auto;">
+								<a id="icmpv6">ICMPv6</a> 
+							</div>
+						</td>
+					</tr>
+					
+					<tr>
+						<tr>
+							<td align="middle"  valign="middle">
+									<h3>Destination address: </h3>
+							</td>
+							<td align="middle"  valign="middle">
+								<select id="ping_dest">
+									 <option value="aaaa::0212:4b00:0205:f358" selected="selected">Border router 0</option>
+									 <option value="aaaa::0212:4b00:0205:f4ec">Border router 1</option>
+									 <option value="aaaa::0212:4b00:01ce:4b82">Mobile node</option>
+								</select>
+							</td>
+							<td align="middle"  valign="middle">
+								<a class="button blue" onClick="startPing()">Ping</a>
+							</td>
+							<td align="left"  valign="left">
+								<a class="button rosy" onClick="clearTimeout(c)">Stop</a>
+							</td>
+							<td align="left"  valign="left">
+								<a class="button gray" onClick="">Clear</a>
+							</td>
+						</tr>
+					</td>
+				</table>
+            </article> 
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- footer -->
+  <footer>
+    <div class="container">
+    	<div class="wrapper">
+        <div class="fright">Copyright - Zhiwei Liu @ Loughborough University</div>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>
